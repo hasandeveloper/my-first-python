@@ -1,0 +1,12 @@
+type(10)
+int(5.0)
+float(3)
+str(500)
+max(10,20)
+min(1,2)
+abs(-1)
+list = [1,2,3,4]
+sum(list)
+round(3.2)
+pow(2,10)
+len("Hasan")
