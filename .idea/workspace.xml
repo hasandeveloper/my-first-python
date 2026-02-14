@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15389cfa-eaec-447f-9bcb-cbdd8cc00e82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my-first-python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.python variables and data types/1.variables/1.variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.python variables and data types/1.variables/2.variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.python variables and data types/1.variables/3.variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.python variables and data types/2.Number and Boolean/1.number-and-boolean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.python variables and data types/3.strings/1.strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.basic python syntax/1.Arithemetic operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.lists/2.tupples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.lists/3.dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +36,11 @@
     "Python.1.variables.executor": "Run",
     "Python.2.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -129,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770642339360</updated>
-      <workItem from="1770642340356" duration="3343000" />
+      <workItem from="1770642340356" duration="6547000" />
     </task>
     <servers />
   </component>
