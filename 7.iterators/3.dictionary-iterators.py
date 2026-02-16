@@ -1,16 +1,23 @@
 # In this exercise you will use the same dictionaries as the ones we used in the lesson - prices and quantity. This time, don't just calculate all the money Jan spent. Calculate how much she spent on products with a price of 5 dollars or more.
+
 prices = {
-    "box_of_spaghetti" : 4,
-    "lasagna"  : 5,
-    "hamburger" : 2
+    "box_of_spaghetti": 4,
+    "lasagna": 5,
+    "hamburger": 2
    }
+   
 quantity = {
-    "box_of_spaghetti" : 6,
-    "lasagna"  : 10,
-    "hamburger" : 0
+    "box_of_spaghetti": 6,
+    "lasagna": 10,
+    "hamburger": 0
     }
 
 money_spent = 0
 
+for i in prices:
+    if prices[i] >= 5:
+        money_spent += quantity[i] * prices[i]
+print(money_spent)
+        
 
 # How much did Jan spent on products that cost less than 5 dollars?
